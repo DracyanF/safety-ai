@@ -1,2 +1,2 @@
 # safety-ai
-# crime-ai 🚔 Public Safety amp; Crime Pattern Intelligence Agent
+# crime-ai 🚔 Public Safety and Crime Pattern Intelligence Agent
