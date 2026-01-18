@@ -1,0 +1,1010 @@
+[
+    {
+        "incident_id": "CR001",
+        "description": "Two armed individuals robbed a convenience store late at night.",
+        "crime_type": "robbery",
+        "area": "Andheri East",
+        "location": {
+            "lat": 19.1136,
+            "lon": 72.8697
+        },
+        "timestamp": 1765265471,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR002",
+        "description": "Mobile phone snatching reported near metro station during evening hours.",
+        "crime_type": "theft",
+        "area": "Andheri East",
+        "location": {
+            "lat": 19.1197,
+            "lon": 72.8464
+        },
+        "timestamp": 1765438271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR003",
+        "description": "Vehicle break-in at shopping mall parking area.",
+        "crime_type": "theft",
+        "area": "Andheri East",
+        "location": {
+            "lat": 19.1076,
+            "lon": 72.8777
+        },
+        "timestamp": 1765647871,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR004",
+        "description": "Assault reported during street altercation.",
+        "crime_type": "assault",
+        "area": "Andheri East",
+        "location": {
+            "lat": 19.1189,
+            "lon": 72.8550
+        },
+        "timestamp": 1765833471,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR005",
+        "description": "Pickpocketing incident in crowded market area.",
+        "crime_type": "theft",
+        "area": "Andheri East",
+        "location": {
+            "lat": 19.1126,
+            "lon": 72.8687
+        },
+        "timestamp": 1766020271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR006",
+        "description": "Burglary at residential apartment during daytime.",
+        "crime_type": "burglary",
+        "area": "Andheri East",
+        "location": {
+            "lat": 19.1100,
+            "lon": 72.8600
+        },
+        "timestamp": 1766206271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR007",
+        "description": "Chain snatching incident near bus stop.",
+        "crime_type": "theft",
+        "area": "Andheri East",
+        "location": {
+            "lat": 19.1156,
+            "lon": 72.8720
+        },
+        "timestamp": 1766392271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR008",
+        "description": "ATM fraud case reported by multiple victims.",
+        "crime_type": "fraud",
+        "area": "Bandra West",
+        "location": {
+            "lat": 19.0596,
+            "lon": 72.8295
+        },
+        "timestamp": 1765328271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR009",
+        "description": "Armed robbery at jewelry store.",
+        "crime_type": "robbery",
+        "area": "Bandra West",
+        "location": {
+            "lat": 19.0608,
+            "lon": 72.8314
+        },
+        "timestamp": 1765514271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR010",
+        "description": "Vandalism of public property reported.",
+        "crime_type": "vandalism",
+        "area": "Bandra West",
+        "location": {
+            "lat": 19.0625,
+            "lon": 72.8350
+        },
+        "timestamp": 1765700271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR011",
+        "description": "Domestic violence complaint filed.",
+        "crime_type": "assault",
+        "area": "Bandra West",
+        "location": {
+            "lat": 19.0580,
+            "lon": 72.8280
+        },
+        "timestamp": 1765886271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR012",
+        "description": "Bike theft from residential building.",
+        "crime_type": "theft",
+        "area": "Bandra West",
+        "location": {
+            "lat": 19.0615,
+            "lon": 72.8330
+        },
+        "timestamp": 1766072271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR013",
+        "description": "Online scam targeting elderly citizens.",
+        "crime_type": "fraud",
+        "area": "Bandra West",
+        "location": {
+            "lat": 19.0590,
+            "lon": 72.8300
+        },
+        "timestamp": 1766258271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR014",
+        "description": "Street fight resulting in injuries.",
+        "crime_type": "assault",
+        "area": "Bandra West",
+        "location": {
+            "lat": 19.0600,
+            "lon": 72.8310
+        },
+        "timestamp": 1766444271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR015",
+        "description": "Shoplifting at department store.",
+        "crime_type": "theft",
+        "area": "Bandra West",
+        "location": {
+            "lat": 19.0620,
+            "lon": 72.8340
+        },
+        "timestamp": 1766630271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR016",
+        "description": "Car theft from hotel parking lot.",
+        "crime_type": "theft",
+        "area": "Juhu",
+        "location": {
+            "lat": 19.1075,
+            "lon": 72.8263
+        },
+        "timestamp": 1765391271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR017",
+        "description": "Mugging incident on beach road at night.",
+        "crime_type": "robbery",
+        "area": "Juhu",
+        "location": {
+            "lat": 19.0990,
+            "lon": 72.8265
+        },
+        "timestamp": 1765577271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR018",
+        "description": "Purse snatching near beach entrance.",
+        "crime_type": "theft",
+        "area": "Juhu",
+        "location": {
+            "lat": 19.1035,
+            "lon": 72.8270
+        },
+        "timestamp": 1765763271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR019",
+        "description": "Residential burglary in luxury apartment.",
+        "crime_type": "burglary",
+        "area": "Juhu",
+        "location": {
+            "lat": 19.1050,
+            "lon": 72.8280
+        },
+        "timestamp": 1765949271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR020",
+        "description": "Credit card fraud reported by restaurant patron.",
+        "crime_type": "fraud",
+        "area": "Juhu",
+        "location": {
+            "lat": 19.1020,
+            "lon": 72.8275
+        },
+        "timestamp": 1766135271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR021",
+        "description": "Assault during road rage incident.",
+        "crime_type": "assault",
+        "area": "Juhu",
+        "location": {
+            "lat": 19.1065,
+            "lon": 72.8290
+        },
+        "timestamp": 1766321271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR022",
+        "description": "Wallet theft from gym locker.",
+        "crime_type": "theft",
+        "area": "Juhu",
+        "location": {
+            "lat": 19.1000,
+            "lon": 72.8268
+        },
+        "timestamp": 1766507271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR023",
+        "description": "Armed robbery at late-night pharmacy.",
+        "crime_type": "robbery",
+        "area": "Dadar West",
+        "location": {
+            "lat": 19.0178,
+            "lon": 72.8478
+        },
+        "timestamp": 1765454271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR024",
+        "description": "Chain snatching near railway station.",
+        "crime_type": "theft",
+        "area": "Dadar West",
+        "location": {
+            "lat": 19.0189,
+            "lon": 72.8490
+        },
+        "timestamp": 1765640271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR025",
+        "description": "Group assault at public gathering.",
+        "crime_type": "assault",
+        "area": "Dadar West",
+        "location": {
+            "lat": 19.0200,
+            "lon": 72.8500
+        },
+        "timestamp": 1765826271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR026",
+        "description": "Apartment burglary during festival season.",
+        "crime_type": "burglary",
+        "area": "Dadar West",
+        "location": {
+            "lat": 19.0165,
+            "lon": 72.8465
+        },
+        "timestamp": 1766012271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR027",
+        "description": "Motorcycle theft from residential complex.",
+        "crime_type": "theft",
+        "area": "Dadar West",
+        "location": {
+            "lat": 19.0185,
+            "lon": 72.8485
+        },
+        "timestamp": 1766198271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR028",
+        "description": "Bank fraud using fake documents.",
+        "crime_type": "fraud",
+        "area": "Dadar West",
+        "location": {
+            "lat": 19.0195,
+            "lon": 72.8495
+        },
+        "timestamp": 1766384271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR029",
+        "description": "Shoplifting at clothing store.",
+        "crime_type": "theft",
+        "area": "Dadar West",
+        "location": {
+            "lat": 19.0175,
+            "lon": 72.8475
+        },
+        "timestamp": 1766570271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR030",
+        "description": "Graffiti vandalism on public building.",
+        "crime_type": "vandalism",
+        "area": "Dadar West",
+        "location": {
+            "lat": 19.0170,
+            "lon": 72.8470
+        },
+        "timestamp": 1766756271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR031",
+        "description": "Armed robbery at petrol pump.",
+        "crime_type": "robbery",
+        "area": "Powai",
+        "location": {
+            "lat": 19.1176,
+            "lon": 72.9060
+        },
+        "timestamp": 1765517271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR032",
+        "description": "Laptop theft from tech park.",
+        "crime_type": "theft",
+        "area": "Powai",
+        "location": {
+            "lat": 19.1197,
+            "lon": 72.9050
+        },
+        "timestamp": 1765703271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR033",
+        "description": "Vehicle break-in at mall parking.",
+        "crime_type": "theft",
+        "area": "Powai",
+        "location": {
+            "lat": 19.1158,
+            "lon": 72.9048
+        },
+        "timestamp": 1765889271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR034",
+        "description": "Residential burglary in gated community.",
+        "crime_type": "burglary",
+        "area": "Powai",
+        "location": {
+            "lat": 19.1185,
+            "lon": 72.9070
+        },
+        "timestamp": 1766075271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR035",
+        "description": "Cybercrime targeting corporate employees.",
+        "crime_type": "fraud",
+        "area": "Powai",
+        "location": {
+            "lat": 19.1190,
+            "lon": 72.9055
+        },
+        "timestamp": 1766261271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR036",
+        "description": "Assault during pub altercation.",
+        "crime_type": "assault",
+        "area": "Powai",
+        "location": {
+            "lat": 19.1165,
+            "lon": 72.9040
+        },
+        "timestamp": 1766447271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR037",
+        "description": "Bicycle theft from lakeside area.",
+        "crime_type": "theft",
+        "area": "Powai",
+        "location": {
+            "lat": 19.1200,
+            "lon": 72.9065
+        },
+        "timestamp": 1766633271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR038",
+        "description": "Mobile snatching near college campus.",
+        "crime_type": "theft",
+        "area": "Powai",
+        "location": {
+            "lat": 19.1170,
+            "lon": 72.9045
+        },
+        "timestamp": 1766819271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR039",
+        "description": "Robbery at ATM kiosk late at night.",
+        "crime_type": "robbery",
+        "area": "Borivali West",
+        "location": {
+            "lat": 19.2403,
+            "lon": 72.8520
+        },
+        "timestamp": 1765580271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR040",
+        "description": "Pickpocketing in crowded market.",
+        "crime_type": "theft",
+        "area": "Borivali West",
+        "location": {
+            "lat": 19.2290,
+            "lon": 72.8544
+        },
+        "timestamp": 1765766271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR041",
+        "description": "House burglary during wedding event.",
+        "crime_type": "burglary",
+        "area": "Borivali West",
+        "location": {
+            "lat": 19.2350,
+            "lon": 72.8500
+        },
+        "timestamp": 1765952271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR042",
+        "description": "Auto-rickshaw theft from parking area.",
+        "crime_type": "theft",
+        "area": "Borivali West",
+        "location": {
+            "lat": 19.2380,
+            "lon": 72.8530
+        },
+        "timestamp": 1766138271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR043",
+        "description": "Property fraud case involving forged documents.",
+        "crime_type": "fraud",
+        "area": "Borivali West",
+        "location": {
+            "lat": 19.2320,
+            "lon": 72.8510
+        },
+        "timestamp": 1766324271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR044",
+        "description": "Assault during neighborhood dispute.",
+        "crime_type": "assault",
+        "area": "Borivali West",
+        "location": {
+            "lat": 19.2360,
+            "lon": 72.8525
+        },
+        "timestamp": 1766510271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR045",
+        "description": "Chain snatching near temple.",
+        "crime_type": "theft",
+        "area": "Borivali West",
+        "location": {
+            "lat": 19.2340,
+            "lon": 72.8515
+        },
+        "timestamp": 1766696271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR046",
+        "description": "Vandalism at public park.",
+        "crime_type": "vandalism",
+        "area": "Borivali West",
+        "location": {
+            "lat": 19.2370,
+            "lon": 72.8535
+        },
+        "timestamp": 1766882271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR047",
+        "description": "Armed robbery at gold loan office.",
+        "crime_type": "robbery",
+        "area": "Malad West",
+        "location": {
+            "lat": 19.1867,
+            "lon": 72.8481
+        },
+        "timestamp": 1765643271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR048",
+        "description": "Mobile phone theft from restaurant.",
+        "crime_type": "theft",
+        "area": "Malad West",
+        "location": {
+            "lat": 19.1840,
+            "lon": 72.8465
+        },
+        "timestamp": 1765829271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR049",
+        "description": "Residential burglary in high-rise building.",
+        "crime_type": "burglary",
+        "area": "Malad West",
+        "location": {
+            "lat": 19.1890,
+            "lon": 72.8500
+        },
+        "timestamp": 1766015271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR050",
+        "description": "Car theft from residential parking.",
+        "crime_type": "theft",
+        "area": "Malad West",
+        "location": {
+            "lat": 19.1850,
+            "lon": 72.8475
+        },
+        "timestamp": 1766201271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR051",
+        "description": "Online shopping scam reported.",
+        "crime_type": "fraud",
+        "area": "Malad West",
+        "location": {
+            "lat": 19.1875,
+            "lon": 72.8490
+        },
+        "timestamp": 1766387271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR052",
+        "description": "Assault during bar brawl.",
+        "crime_type": "assault",
+        "area": "Malad West",
+        "location": {
+            "lat": 19.1860,
+            "lon": 72.8485
+        },
+        "timestamp": 1766573271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR053",
+        "description": "Purse snatching at shopping complex.",
+        "crime_type": "theft",
+        "area": "Malad West",
+        "location": {
+            "lat": 19.1880,
+            "lon": 72.8495
+        },
+        "timestamp": 1766759271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR054",
+        "description": "Robbery at mobile phone store.",
+        "crime_type": "robbery",
+        "area": "Goregaon East",
+        "location": {
+            "lat": 19.1651,
+            "lon": 72.8497
+        },
+        "timestamp": 1765706271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR055",
+        "description": "Vehicle theft from film city area.",
+        "crime_type": "theft",
+        "area": "Goregaon East",
+        "location": {
+            "lat": 19.1700,
+            "lon": 72.8550
+        },
+        "timestamp": 1765892271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR056",
+        "description": "Office burglary during weekend.",
+        "crime_type": "burglary",
+        "area": "Goregaon East",
+        "location": {
+            "lat": 19.1620,
+            "lon": 72.8480
+        },
+        "timestamp": 1766078271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR057",
+        "description": "Laptop bag theft from metro train.",
+        "crime_type": "theft",
+        "area": "Goregaon East",
+        "location": {
+            "lat": 19.1670,
+            "lon": 72.8520
+        },
+        "timestamp": 1766264271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR058",
+        "description": "Job offer scam targeting unemployed youth.",
+        "crime_type": "fraud",
+        "area": "Goregaon East",
+        "location": {
+            "lat": 19.1640,
+            "lon": 72.8490
+        },
+        "timestamp": 1766450271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR059",
+        "description": "Assault at nightclub.",
+        "crime_type": "assault",
+        "area": "Goregaon East",
+        "location": {
+            "lat": 19.1680,
+            "lon": 72.8530
+        },
+        "timestamp": 1766636271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR060",
+        "description": "Bicycle theft from sports complex.",
+        "crime_type": "theft",
+        "area": "Goregaon East",
+        "location": {
+            "lat": 19.1660,
+            "lon": 72.8510
+        },
+        "timestamp": 1766822271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR061",
+        "description": "Armed robbery at courier office.",
+        "crime_type": "robbery",
+        "area": "Kurla West",
+        "location": {
+            "lat": 19.0688,
+            "lon": 72.8828
+        },
+        "timestamp": 1765769271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR062",
+        "description": "Mobile snatching from auto-rickshaw passenger.",
+        "crime_type": "theft",
+        "area": "Kurla West",
+        "location": {
+            "lat": 19.0710,
+            "lon": 72.8850
+        },
+        "timestamp": 1765955271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR063",
+        "description": "Shop burglary in commercial building.",
+        "crime_type": "burglary",
+        "area": "Kurla West",
+        "location": {
+            "lat": 19.0675,
+            "lon": 72.8815
+        },
+        "timestamp": 1766141271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR064",
+        "description": "Wallet theft from hospital premises.",
+        "crime_type": "theft",
+        "area": "Kurla West",
+        "location": {
+            "lat": 19.0695,
+            "lon": 72.8835
+        },
+        "timestamp": 1766327271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR065",
+        "description": "Insurance fraud case uncovered.",
+        "crime_type": "fraud",
+        "area": "Kurla West",
+        "location": {
+            "lat": 19.0700,
+            "lon": 72.8840
+        },
+        "timestamp": 1766513271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR066",
+        "description": "Group assault near railway bridge.",
+        "crime_type": "assault",
+        "area": "Kurla West",
+        "location": {
+            "lat": 19.0680,
+            "lon": 72.8820
+        },
+        "timestamp": 1766699271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR067",
+        "description": "Auto parts theft from garage.",
+        "crime_type": "theft",
+        "area": "Kurla West",
+        "location": {
+            "lat": 19.0705,
+            "lon": 72.8845
+        },
+        "timestamp": 1766885271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR068",
+        "description": "Robbery at small business establishment.",
+        "crime_type": "robbery",
+        "area": "Vile Parle East",
+        "location": {
+            "lat": 19.0990,
+            "lon": 72.8560
+        },
+        "timestamp": 1765832271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR069",
+        "description": "Handbag theft at airport vicinity.",
+        "crime_type": "theft",
+        "area": "Vile Parle East",
+        "location": {
+            "lat": 19.0950,
+            "lon": 72.8520
+        },
+        "timestamp": 1766018271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR070",
+        "description": "Apartment burglary using duplicate keys.",
+        "crime_type": "burglary",
+        "area": "Vile Parle East",
+        "location": {
+            "lat": 19.1010,
+            "lon": 72.8580
+        },
+        "timestamp": 1766204271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR071",
+        "description": "Vehicle spare parts theft.",
+        "crime_type": "theft",
+        "area": "Vile Parle East",
+        "location": {
+            "lat": 19.0970,
+            "lon": 72.8540
+        },
+        "timestamp": 1766390271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR072",
+        "description": "Real estate fraud involving fake agents.",
+        "crime_type": "fraud",
+        "area": "Vile Parle East",
+        "location": {
+            "lat": 19.1000,
+            "lon": 72.8570
+        },
+        "timestamp": 1766576271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR073",
+        "description": "Assault during parking dispute.",
+        "crime_type": "assault",
+        "area": "Vile Parle East",
+        "location": {
+            "lat": 19.0980,
+            "lon": 72.8550
+        },
+        "timestamp": 1766762271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR074",
+        "description": "Theft of construction materials from site.",
+        "crime_type": "theft",
+        "area": "Vile Parle East",
+        "location": {
+            "lat": 19.0960,
+            "lon": 72.8530
+        },
+        "timestamp": 1766948271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR075",
+        "description": "Armed robbery at fast food restaurant.",
+        "crime_type": "robbery",
+        "area": "Santacruz East",
+        "location": {
+            "lat": 19.0812,
+            "lon": 72.8420
+        },
+        "timestamp": 1765895271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR076",
+        "description": "Mobile phone theft from gym.",
+        "crime_type": "theft",
+        "area": "Santacruz East",
+        "location": {
+            "lat": 19.0850,
+            "lon": 72.8460
+        },
+        "timestamp": 1766081271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR077",
+        "description": "Warehouse burglary involving electronics.",
+        "crime_type": "burglary",
+        "area": "Santacruz East",
+        "location": {
+            "lat": 19.0790,
+            "lon": 72.8400
+        },
+        "timestamp": 1766267271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR078",
+        "description": "Motorcycle theft from society parking.",
+        "crime_type": "theft",
+        "area": "Santacruz East",
+        "location": {
+            "lat": 19.0830,
+            "lon": 72.8440
+        },
+        "timestamp": 1766453271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR079",
+        "description": "Investment scam targeting senior citizens.",
+        "crime_type": "fraud",
+        "area": "Santacruz East",
+        "location": {
+            "lat": 19.0820,
+            "lon": 72.8430
+        },
+        "timestamp": 1766639271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR080",
+        "description": "Assault following traffic accident.",
+        "crime_type": "assault",
+        "area": "Santacruz East",
+        "location": {
+            "lat": 19.0800,
+            "lon": 72.8410
+        },
+        "timestamp": 1766825271,
+        "severity": "medium"
+    },
+    {
+        "incident_id": "CR081",
+        "description": "Package theft from delivery zone.",
+        "crime_type": "theft",
+        "area": "Santacruz East",
+        "location": {
+            "lat": 19.0840,
+            "lon": 72.8450
+        },
+        "timestamp": 1767011271,
+        "severity": "low"
+    },
+    {
+        "incident_id": "CR082",
+        "description": "Robbery at medical store.",
+        "crime_type": "robbery",
+        "area": "Kandivali West",
+        "location": {
+            "lat": 19.2090,
+            "lon": 72.8320
+        },
+        "timestamp": 1765958271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR083",
+        "description": "Jewelry theft during home visit by salesperson.",
+        "crime_type": "theft",
+        "area": "Kandivali West",
+        "location": {
+            "lat": 19.2050,
+            "lon": 72.8300
+        },
+        "timestamp": 1766144271,
+        "severity": "high"
+    },
+    {
+        "incident_id": "CR084",
+        "description": "Office equipment burglary.",
+        "crime_type": "burglary",
+        "area": "Kandivali West",
+        "location": {
+            "lat": 19.2120,
+            "lon": 72.8350
+        },
+        "timestamp": 1766330271,
+        "severity": "high"
+    }
+]
